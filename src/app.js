@@ -68,8 +68,6 @@ app.get('/weather', (req, res) => {
 
     })
 
-
-
     // res.send({
     //     forecast: "It is Raining.",
     //     location: "Bihar",
